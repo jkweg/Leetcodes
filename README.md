@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jkweg/Leetcodes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jkweg/Leetcodes/tree/master/0202-happy-number) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
