@@ -144,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jkweg/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jkweg/Leetcodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jkweg/Leetcodes/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/jkweg/Leetcodes/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jkweg/Leetcodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jkweg/Leetcodes/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/jkweg/Leetcodes/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkweg/Leetcodes/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jkweg/Leetcodes/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jkweg/Leetcodes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
