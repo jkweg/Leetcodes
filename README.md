@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jkweg/Leetcodes/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jkweg/Leetcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jkweg/Leetcodes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jkweg/Leetcodes/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -100,4 +101,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jkweg/Leetcodes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jkweg/Leetcodes/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jkweg/Leetcodes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
