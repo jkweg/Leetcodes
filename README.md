@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jkweg/Leetcodes/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jkweg/Leetcodes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jkweg/Leetcodes/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jkweg/Leetcodes/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
