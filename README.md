@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jkweg/Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/jkweg/Leetcodes/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jkweg/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jkweg/Leetcodes/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
