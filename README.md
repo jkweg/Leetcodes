@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/jkweg/Leetcodes/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jkweg/Leetcodes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jkweg/Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jkweg/Leetcodes/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jkweg/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -101,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jkweg/Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -122,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -181,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jkweg/Leetcodes/tree/master/0547-number-of-provinces) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
