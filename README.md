@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jkweg/Leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jkweg/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jkweg/Leetcodes/tree/master/0242-valid-anagram) |
+| [2833-furthest-point-from-origin](https://github.com/jkweg/Leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jkweg/Leetcodes/tree/master/0912-sort-an-array) |
+| [2833-furthest-point-from-origin](https://github.com/jkweg/Leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
