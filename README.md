@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jkweg/Leetcodes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jkweg/Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jkweg/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jkweg/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jkweg/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jkweg/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jkweg/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jkweg/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
